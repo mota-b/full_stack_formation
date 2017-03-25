@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  color: snow;
+  height: 100vh;
+  background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0)) ,url("../images/a.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1{
+  font-weight: 400;
+  font-family: Verdona;
+
+}
+li{
+  list-style-type: none;
+  
+}
